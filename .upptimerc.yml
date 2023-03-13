@@ -4,13 +4,13 @@ repo: Trust.VeevaTools # The name of this repository
 
 sites:
   - name: VeevaTools Production
-    url: https://cctools.veevaservices.com/
+    url: https://cctools.veevaservices.com
   - name: VeevaTools Deveveloper
-    url: https://cctools-dev.veevaservices.com/
+    url: https://cctools-dev.veevaservices.com
   - name: VeevaTools Production - API
-    url: https://cctools-api.veevaservices.com/
+    url: https://cctools-api.veevaservices.com
   - name: VeevaTools Developer - API
-    url: https://cctools-dev-api.veevaservices.com/
+    url: https://cctools-dev-api.veevaservices.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
