@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cctools.veevaservices.com.ico",
     "slug": "veeva-tools-production",
     "status": "down",
-    "uptime": "28.19%",
-    "uptimeDay": "28.19%",
-    "uptimeWeek": "28.19%",
-    "uptimeMonth": "28.19%",
-    "uptimeYear": "28.19%",
+    "uptime": "3.02%",
+    "uptimeDay": "3.02%",
+    "uptimeWeek": "3.02%",
+    "uptimeMonth": "3.02%",
+    "uptimeYear": "3.02%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-13": 1
+      "2023-03-13": 17
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cctools-dev.veevaservices.com.ico",
     "slug": "veeva-tools-deveveloper",
     "status": "down",
-    "uptime": "41.12%",
-    "uptimeDay": "41.12%",
-    "uptimeWeek": "41.12%",
-    "uptimeMonth": "41.12%",
-    "uptimeYear": "41.12%",
+    "uptime": "3.15%",
+    "uptimeDay": "3.15%",
+    "uptimeWeek": "3.15%",
+    "uptimeMonth": "3.15%",
+    "uptimeYear": "3.15%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-13": 1
+      "2023-03-13": 16
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cctools-api.veevaservices.com.ico",
     "slug": "veeva-tools-production-api",
     "status": "down",
-    "uptime": "2.51%",
-    "uptimeDay": "2.51%",
-    "uptimeWeek": "2.51%",
-    "uptimeMonth": "2.51%",
-    "uptimeYear": "2.51%",
+    "uptime": "0.06%",
+    "uptimeDay": "0.06%",
+    "uptimeWeek": "0.06%",
+    "uptimeMonth": "0.06%",
+    "uptimeYear": "0.06%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-13": 1
+      "2023-03-13": 16
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cctools-dev-api.veevaservices.com.ico",
     "slug": "veeva-tools-developer-api",
     "status": "down",
-    "uptime": "77.15%",
-    "uptimeDay": "77.15%",
-    "uptimeWeek": "77.15%",
-    "uptimeMonth": "77.15%",
-    "uptimeYear": "77.15%",
+    "uptime": "3.24%",
+    "uptimeDay": "3.24%",
+    "uptimeWeek": "3.24%",
+    "uptimeMonth": "3.24%",
+    "uptimeYear": "3.24%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-13": 0
+      "2023-03-13": 15
     }
   }
 ]
