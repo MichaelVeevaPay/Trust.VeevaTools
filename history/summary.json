@@ -16,7 +16,7 @@
     "timeMonth": 69,
     "timeYear": 123,
     "dailyMinutesDown": {
-      "2026-07-24": 84,
+      "2026-07-24": 385,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
       "2026-07-21": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 66,
     "timeYear": 129,
     "dailyMinutesDown": {
-      "2026-07-24": 85,
+      "2026-07-24": 385,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
       "2026-07-21": 1440,
@@ -784,7 +784,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-24": 85,
+      "2026-07-24": 385,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
       "2026-07-21": 1440,
@@ -1156,12 +1156,12 @@
     "url": "https://cctools-dev-api.veevaservices.com",
     "icon": "https://icons.duckduckgo.com/ip3/cctools-dev-api.veevaservices.com.ico",
     "slug": "veeva-tools-developer-api",
-    "status": "up",
-    "uptime": "3.34%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "3.35%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "11.23%",
+    "uptimeYear": "11.28%",
     "time": 180,
     "timeDay": 222,
     "timeWeek": 208,
@@ -1491,7 +1491,8 @@
       "2025-07-28": 1440,
       "2025-07-27": 1440,
       "2025-07-26": 1440,
-      "2025-07-25": 1440
+      "2025-07-25": 1440,
+      "2026-07-24": 0
     }
   }
 ]
